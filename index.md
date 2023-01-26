@@ -2,44 +2,23 @@
 layout: default
 ---
 
-## About Me
+<img src='img/download3.png' style='height: 30vh; object-fit: cover;'>
+*<font size="2" >Neural inverse rendering according to Stable Diffusion v1-5</font>*
 
-<img class="profile-picture" src="sherlock.jpg">
+Welcome to the **Neural Fields Reading Group**. We are an online community that meets weekly to discuss the latest developments in Neural Fields and their applications in the virtual and physical world. Here's a curated list of papers that we use as reference material: [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics). Join us to stay current on this exciting field!
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Feel free to view and contribute on [Github](https://github.com/Neural-Fields-Reading-Group/neural-fields-reading-group.github.io).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Additional information will be provided soon.
 
-## Research Interest
+## <font color='#8EA7E9'>#</font> Sessions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+When | Presenter| What       | Authors  | Notes
+-----|----------|------------|----------|--------
+ TBD | Mauro Comi| [Neural Fields in Visual Computing and Beyond](https://arxiv.org/abs/2111.11426) | 
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+## <font color='#8EA7E9'>#</font> Resources
+- [Repository on Github](https://github.com/Neural-Fields-Reading-Group/neural-fields-reading-group.github.io)
+- [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics): list of Implicit Representations and NeRF papers relevant to the physical world.

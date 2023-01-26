@@ -1,6 +1,6 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Neural Fields Reading Group
+url: "https://github.com/Neural-Fields-Reading-Group/neural-fields-reading-group.github.io"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,17 +8,13 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: ""
+footer_text: "Neural Fields Reading Group is maintained by <a href='https://github.com/maurock'>maurock</a>. Theme by <a href='https://github.com/ankitsultana/researcher'>researcher</a>" 
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
