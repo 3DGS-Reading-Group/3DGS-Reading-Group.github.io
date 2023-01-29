@@ -28,4 +28,5 @@ When | Presenter| What       | Authors  | Notes
 ## <font color='#8EA7E9'>#</font> Resources
 - [This repository on Github](https://github.com/3D-DeepLearning-RG/3D-DeepLearning-RG.github.io)
 - [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics): list of Implicit Representations and NeRF papers relevant to the physical world.
-- [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations): list of Implicit Representations and NeRF papers curated by Vincent Sitzmann, Assistant Professor at MIT.
+- [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations): list of Implicit Representations and NeRF papers curated by Assistant Professor Vincent Sitzmann (MIT).
+- [Machine Learning for 3D Data](https://mhsung.github.io/kaist-cs492a-spring-2022/): course on Machine Learning for 3D data organised by Assistant Professor Minhyuk Sung (KAIST).
