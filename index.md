@@ -21,6 +21,10 @@ When | Presenter| What       | Notes
 17/05/2023  | Mauro Comi| Neural Fields in Visual Computing and Beyond, Part 1 |[[paper]](https://arxiv.org/abs/2111.11426) [[our slides]](slides/3DRG_1705.pdf) | 
 29/05/2023  | Mauro Comi| Neural Fields in Visual Computing and Beyond, Part 2 | [[paper]](https://arxiv.org/abs/2111.11426) | 
 05/06/2023  | Zubair Irshad| Neural Fields in Robotics Part 1 | |
+12/06/2023  | Zubair Irshad| Neural Fields in Robotics Part 2 | |
+26/06/2023  | Mauro Comi (et al.?)| Interesting papers from CVPR 2023 | |
+
+
 
 <br>
 ## <font color='#8EA7E9'>#</font> Resources
