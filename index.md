@@ -22,7 +22,16 @@ When | Presenter| What       | Notes
 29/05/2023  | Mauro Comi| Neural Fields in Visual Computing and Beyond, Part 2 | [[paper]](https://arxiv.org/abs/2111.11426) | 
 05/06/2023  | Zubair Irshad| Neural Fields in Robotics Part 1 | |
 12/06/2023  | Zubair Irshad| Neural Fields in Robotics Part 2 | |
-26/06/2023  | Mauro Comi (et al.?)| Interesting papers from CVPR 2023 | |
+03/07/2023  | Mauro Comi | Interesting papers from CVPR 2023 | BundleSDF, SPARF, WIRE, FlowCAM, and more|
+17/07/2023  | Mauro Comi | Interesting papers from CVPR 2023 | FLowDiffusion, Deformable NeRF, HyperReel, and more|
+16/08/2023  | Daniel Escobar | Diffusion for 3D generation | [Text2NeRF](https://eckertzhang.github.io/Text2NeRF.github.io/), [Text2Room](https://lukashoel.github.io/text-to-room/), [GenVS](https://nvlabs.github.io/genvs/)|
+23/08/2023  | Mauro Comi | 3D Gaussians splatting | link soon |
+TBD  | TBD | Dynamic 3D Gaussians | |
+
+
+
+
+
 
 
 
