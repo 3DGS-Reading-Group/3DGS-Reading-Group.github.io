@@ -15,7 +15,7 @@ Welcome to the **3D Deep Learning Reading Group**. We are an online community th
 
 Join our reading group! We have a dedicated group on Slack in the Neural Fields workspace, where we coordinate our meetings and discussions.
 - [Join here](https://join.slack.com/t/neuralfields/shared_invite/zt-2g0gtol8l-PgiDnHmCpWVidYzXypO7_Q), or [please let me know](contact) if the link is expired.
-- The channel we use is the **#reading_group** channel. If you haven't added it already, please go to **Add channels** or **Browse channels** to find it. 
+- The channel we use is the **#reading_group** channel. If you haven't added it already, please go to **Add channels** or **Browse channels** from the Slack workspace to find it. 
 
 Don't hesitate to reach out if you have any questions or need more information.
 
