@@ -7,7 +7,7 @@ layout: default
 
 Welcome to the **3D Deep Learning Reading Group**. We are an online community that meets every other week to discuss the latest developments in 3D Deep Learning and their applications in the virtual and physical world. We are particularly interested in **3D Gaussian Splatting, Neural Fields, Implicit Representations, 3D Reconstruction and Generation, 3D in Robotics and VR/AR**, among other topics. Please check these curated lists of papers that we use as reference material: [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting), [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) and [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations). We welcome all suggestions on the reading group and paper discussion. Join us to stay current on this exciting field!
 
-**Time**: 6:30-7:30pm Wednesdays, London time (GMT+01) - Flexible \\
+**Time**: 6:00-7:00pm Wednesdays, London time (GMT+01) - Flexible \\
 **Zoom link**: shared on Slack
 
 <br>
