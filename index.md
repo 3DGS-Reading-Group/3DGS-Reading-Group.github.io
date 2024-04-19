@@ -5,10 +5,12 @@ layout: default
 <img src='img/inverse_rendering_urban.webp' style='object-fit: cover;'>
 *<font size="2" >Neural inverse rendering according to GPT-4V</font>*
 
-Welcome to the **3D Deep Learning Reading Group**. We are an online community that meets every other week to discuss the latest developments in 3D Deep Learning and their applications in the virtual and physical world. We are particularly interested in **3D Gaussian Splatting, Neural Fields, Implicit Representations, 3D Reconstruction and Generation, 3D in Robotics and VR/AR**, among other topics. Please check these curated lists of papers that we use as reference material: [Awesome 3D Gaussian Splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting), [Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics) and [Awesome Implicit Neural Representations](https://github.com/vsitzmann/awesome-implicit-representations). We welcome all suggestions on the reading group and paper discussion. Join us to stay current on this exciting field!
+Welcome to the **3D Deep Learning Reading Group**. We are an online community that meets every other week to discuss the latest developments in 3D Deep Learning and their applications in the virtual and physical world. We are particularly interested in **3D Gaussian Splatting, Neural Fields, Implicit Representations, 3D Reconstruction and Generation, 3D in Robotics and VR/AR**, among other topics. Please check a curated list of resources at the end of the page. We welcome all suggestions on the reading group and paper discussion. Join us to stay current on this exciting field!
 
-**Time**: 6:00-7:00pm Wednesdays, London time (GMT+01) - Flexible \\
-**Zoom link**: shared on Slack
+<div class="rounded-rectangle">
+<span style='font-weight: 700'>Time:</span> 6:00-7:00pm Wednesdays, London time (GMT+01) - Flexible <br>
+<span style='font-weight: 700'>Zoom link:</span> shared on Slack
+</div>
 
 <br>
 ## <font color='#8EA7E9'>#</font> Join us
@@ -35,7 +37,7 @@ When | Presenter| What       | Notes
 01/09/2023  | Mauro Comi | Dynamic 3D Gaussians | [Dynamic 3DGS](https://dynamic3dgaussians.github.io/) |
 BREAK  |  |  |  |
 17/04/2024 | Mauro Comi | Physics and 3D Gaussian Splatting | [PhysGaussian](https://xpandora.github.io/PhysGaussian/), [Spring-Mass 3DGS](https://zlicheng.com/spring_gaus/) |
-
+01/05/2024 | Mauro Comi | LLMs and 3D Gaussian Splatting | Distilled Feature Fields, Gaussian Grouping |
 
 <br>
 ## <font color='#8EA7E9'>#</font> Useful Resources
