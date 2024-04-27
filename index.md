@@ -9,15 +9,23 @@ Welcome to the **3D Deep Learning Reading Group**. We are an online community th
 
 <div class="rounded-rectangle">
 <span style='font-weight: 700'>Time:</span> 6:00-7:00pm Wednesdays, London time (GMT+01) - Flexible <br>
-<span style='font-weight: 700'>Zoom link:</span> shared on Slack
+<span style='font-weight: 700'>Zoom link:</span> shared on Slack (read below)
 </div>
 
 <br>
 ## <font color='#8EA7E9'>#</font> Join us
 
 Join our reading group! We have a dedicated group on Slack in the Neural Fields workspace, where we coordinate our meetings and discussions.
+
+<div style="display: block;text-align: center;">
+    <a href="https://join.slack.com/t/neuralfields/shared_invite/zt-2g0gtol8l-PgiDnHmCpWVidYzXypO7_Q" class="touch-rectangle">Join here</a>
+    <a href="https://calendar.google.com/calendar/u/0?cid=NTk4MGNmN2IyOTA0NWU1ODViOGEwOTY0YWY3MjE1MDI2YjA0OTM5ZWUzMWNkODYzOWM3NmVmMzA3MDc4YTQ3Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" class="touch-rectangle">Add Calendar</a>
+</div>
+
+
 - [Join here](https://join.slack.com/t/neuralfields/shared_invite/zt-2g0gtol8l-PgiDnHmCpWVidYzXypO7_Q), or [please let me know](contact) if the link is expired.
 - The channel we use is the **#reading_group** channel. If you haven't added it already, please go to **Add channels** or **Browse channels** from the Slack workspace to find it. 
+- [Add the Google Calendar](https://calendar.google.com/calendar/u/0?cid=NTk4MGNmN2IyOTA0NWU1ODViOGEwOTY0YWY3MjE1MDI2YjA0OTM5ZWUzMWNkODYzOWM3NmVmMzA3MDc4YTQ3Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) to stay up-to-date with the sessions.
 
 Don't hesitate to reach out if you have any questions or need more information.
 

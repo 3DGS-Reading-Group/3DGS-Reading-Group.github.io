@@ -4,9 +4,29 @@
 
 .rounded-rectangle {
     background-color: #ffffff; /* light yellow */
-    border: 2px solid #ea8dff; /* light grey border */
+    border: 3px solid #a000c8a8; /* light grey border */
     border-radius: 8px; /* rounded corners */
     padding: 10px 20px; /* padding inside the box */
     display: inline-block; /* makes it wrap the text only */
-    box-shadow: 3px 3px 5px rgba(0,0,0,0.3); /* 3D effect */
+    // box-shadow: 3px 3px 5px rgba(0,0,0,0.3); /* 3D effect */
   }
+
+.touch-rectangle {
+  background-color: transparent;
+  color: white;
+  text-align: center;
+  background-color: #a000c8ca;
+  border-radius: 15px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+  display: inline-block;
+  justify-content: center;
+  padding: 15px;
+  margin: auto;
+  text-decoration: none;
+}
+
+.touch-rectangle:hover {
+  background-color: #530367d6;
+  text-decoration: none; /* Ensures no underline appears on hover */
+}
