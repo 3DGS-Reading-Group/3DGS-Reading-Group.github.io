@@ -37,7 +37,7 @@ When | Presenter| What       | Notes
 01/09/2023  | Mauro Comi | Dynamic 3D Gaussians | [Dynamic 3DGS](https://dynamic3dgaussians.github.io/) |
 BREAK  |  |  |  |
 17/04/2024 | Mauro Comi | Physics and 3D Gaussian Splatting | [PhysGaussian](https://xpandora.github.io/PhysGaussian/), [Spring-Mass 3DGS](https://zlicheng.com/spring_gaus/) |
-01/05/2024 | Mauro Comi | LLMs and 3D Gaussian Splatting | Feature 3DGS, Gaussian Grouping |
+29/04/2024 | Mauro Comi | LLMs and 3D Gaussian Splatting | Feature 3DGS, Gaussian Grouping |
 
 <br>
 ## <font color='#8EA7E9'>#</font> Useful Resources
