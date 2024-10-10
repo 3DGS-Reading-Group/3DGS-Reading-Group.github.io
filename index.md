@@ -12,7 +12,7 @@ Gaussian splatting Reading Group @ MBZUAI
 </div>
 
 <br>
-## <font color='#8EA7E9'>#</font> Join us
+## <font color='#fcba03'>#</font> Join us
 
 <!-- 
 - [Join here](https://join.slack.com/t/neuralfields/shared_invite/zt-2g0gtol8l-PgiDnHmCpWVidYzXypO7_Q), or [please let me know](contact) if the link is expired.
@@ -22,7 +22,7 @@ Gaussian splatting Reading Group @ MBZUAI
 Don't hesitate to reach out if you have any questions or need more information.
 
 <br>
-## <font color='#8EA7E9'>#</font> Sessions
+## <font color='#fcba03'>#</font> Sessions
 
 When | Presenter| What       | Notes
 -----|----------|------------|--------
