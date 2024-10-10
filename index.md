@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src='img/gaussian_splatting.png' style='object-fit: cover;'>
+<img src='img/gaussian_splat.jpeg' style='object-fit: cover;'>
 *<font size="2" >Gaussain Splatting according to Flux 1.1 PRO</font>*
 
 Gaussian splatting Reading Group @ MBZUAI
