@@ -4,7 +4,7 @@
 
 .rounded-rectangle {
     background-color: #ffffff; /* light yellow */
-    border: 3px solid #a000c8a8; /* light grey border */
+    border: 3px solid #fcba03; /* light grey border */
     border-radius: 8px; /* rounded corners */
     padding: 10px 20px; /* padding inside the box */
     display: inline-block; /* makes it wrap the text only */
@@ -15,7 +15,7 @@
   background-color: transparent;
   color: white;
   text-align: center;
-  background-color: #a000c8ca;
+  background-color: #fcba03;
   border-radius: 15px;
   transition: all 0.3s ease;
   cursor: pointer;
@@ -27,6 +27,6 @@
 }
 
 .touch-rectangle:hover {
-  background-color: #530367d6;
+  background-color: #fcba03;
   text-decoration: none; /* Ensures no underline appears on hover */
 }
