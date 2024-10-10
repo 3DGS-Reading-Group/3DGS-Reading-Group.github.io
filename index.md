@@ -8,10 +8,10 @@ layout: default
 Gaussian splatting Reading Group @ MBZUAI
 
 COMING SOON (maybe)
-<!-- 
+
 <div class="rounded-rectangle">
 <span style='font-weight: 700'>Time:</span> 6:00-7:00pm Thursdays, Abu Dhabi time (GMT+04) <br>
-</div> -->
+</div>
 
 <!-- <br>
 ## <font color='#fcba03'>#</font> Join us -->
