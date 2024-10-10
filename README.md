@@ -28,8 +28,6 @@ you would build your site locally for testing. If you know how, open up an issue
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "Contact"
    link: "contact"
 ```
